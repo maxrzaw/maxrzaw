@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on previous years of Advent of Code
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on a neovim extension azdo.nvim
+- 🌱 I’m currently learning rust
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about running, (neo)vim
+- 💬 Ask me about running, (neo)vim, rock climbing
 - 📫 How to reach me: Email me at [maxrzaw@umich.edu](maxrzaw@umich.edu)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't like cheese
