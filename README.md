@@ -11,4 +11,4 @@
 
 [![Max's GitHub stats](https://github-stats.maxzawisa.com?username=maxrzaw&count_private=true&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/maxrzaw)
 
-[![Top Langs](https://github-stats.maxzawisa.com/top-langs/?username=maxrzaw&layout=compact&theme=transparent&langs_count=10)](https://github.com/maxrzaw)
+[![Top Langs](https://github-stats.maxzawisa.com/top-langs/?username=maxrzaw&layout=compact&theme=transparent&langs_count=10&exclude_repo=FlappyBird,github-readme-stats)](https://github.com/maxrzaw)
