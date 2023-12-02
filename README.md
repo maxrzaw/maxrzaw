@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on reading Seven Languages in Seven Weeks
+- 🔭 I’m currently working on Advent of Code 2023 in [Golang](https://go.dev/)
 - 🌱 I’m currently learning rust
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with ...
